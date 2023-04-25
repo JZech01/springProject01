@@ -1,1 +1,1 @@
-# springProject01 added text
+#Spring set up starter project with Angular front-end.
